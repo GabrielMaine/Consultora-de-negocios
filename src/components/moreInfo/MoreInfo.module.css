@@ -264,6 +264,7 @@
 
     .containerMiddle2Text, .containerMiddle3Text{
         font-size: 1.5rem;
+        text-align: justify;
     }
 
     .containerBottomTitleContainer{
